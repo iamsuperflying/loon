@@ -1,0 +1,12 @@
+#!name = 薄荷
+#!desc = 薄荷解锁VIP (仅供学习交流，请于24小时内删除)
+#!author = liul0ng
+#!icon = https://raw.githubusercontent.com/iamsuperflying/loon/main/icons/bohe.png
+#!homepage = https://github.com/iamsuperflying/loon
+#!date = 2026-04-08
+
+[Script]
+http-response ^https://du\.baicizhan\.com script-path = https://raw.githubusercontent.com/iamsuperflying/loon/main/scripts/bohe.js, requires-body = true, tag = 薄荷
+
+[MITM]
+hostname = du.baicizhan.com
