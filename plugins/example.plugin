@@ -1,0 +1,15 @@
+#!name = 示例插件
+#!desc = 这是一个插件模板
+#!author = Roc
+#!icon = https://raw.githubusercontent.com/iamsuperflying/loon/main/icons/example.png
+#!homepage = https://github.com/iamsuperflying/loon
+#!date = 2026-04-08
+
+[Rule]
+
+[Rewrite]
+
+[Script]
+
+[MITM]
+hostname =
